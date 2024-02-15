@@ -1,4 +1,4 @@
-python -m venv .vemv
+python -m venv .venv
 .venv\Scripts\activate
 pip install django
 pip install djangorestframework
